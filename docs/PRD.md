@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Owner** | Ashraf (AI Engineer) |
+| **Owner** | Ashraf Elbialy (AI Engineer) |
 | **Status** | Draft v0.1 |
 | **Last updated** | October 2026 |
 | **Target releases** | v0.1 (Oct 2026) → v2.0 (May 2027) |
